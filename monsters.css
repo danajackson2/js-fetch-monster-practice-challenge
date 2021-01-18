@@ -1,0 +1,15 @@
+div#create-monster {
+    border-style: dotted;
+    border-width: 3px;
+    padding: 10px 10px 10px 10px;
+    display:flex;
+    width:55%
+}
+div#create-monster div {
+    float:left;
+    padding: 0 0 0 20px
+}
+
+h1 {
+    color:rgb(43, 128, 75)
+}
